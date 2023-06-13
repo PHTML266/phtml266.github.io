@@ -43,3 +43,8 @@ img {
   border: 3px solid #2bff00;
   border-radius: 100px;
 }
+
+.bereguedengue{
+  display: flex;
+  justify-content: center;
+}
